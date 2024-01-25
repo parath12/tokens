@@ -1,0 +1,48 @@
+{
+  "description": "Hunger Token - Multi ways of Earning Money by Fighting Hunger",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/core_mao",
+      "type": "link"
+    },
+    {
+      "name": "Website",
+      "url": "https://www.coremao.com/",
+      "type": "link"
+    },
+    {
+      "name": "Audit",
+      "url": "https://scan-results.de.fi/56@0x7334bfc59bc66daee418b0c2d0213abceeb53f79_express_audit.pdf",
+      "type": "link"
+    },
+    {
+      "name": "Telegram Global",
+      "url": "https://t.me/coremao_com",
+      "type": "link"
+    },
+    {
+      "name": "Dextools",
+      "url": "https://www.dextools.io/app/en/bnb/pair-explorer/0xea13d421736ccbffcea5bb2ce32fd515d0ed94b1",
+      "type": "link"
+    },
+    {
+      "name": "Buy on PancakeSwap",
+      "url": "https://pancakeswap.finance/swap?chain=bsc&outputCurrency=0x7334bfC59Bc66daee418B0C2D0213ABCEEB53f79",
+      "type": "link"
+    },
+    {
+      "name": "Poocoin",
+      "url": "https://poocoin.app/tokens/0x7334bfc59bc66daee418b0c2d0213abceeb53f79",
+      "type": "link"
+    },
+    {
+      "name": "WhitePaper",
+      "url": "https://core-mao.gitbook.io/mao-white-paper/",
+      "type": "link"
+    }
+  ],
+  "icon": "icon.png",
+  "url": "https://www.iloveimg.com/download/cbmxdz6r7d21wgkjrfzlAqv726ncw3356s2b8f1cfq59h6c340tfpwgsxc33r90csjyl4w7mlg7bc5778jvdxyl5r8s6gz10khv17yt27hjvAkbkzrghmcby10lrb5nt7pv7r4xt5th3s4hv2j22t5AAAxv5g64v81gtyjlz64r7pAtw88m1/5",
+  "type": "link" 
+}
